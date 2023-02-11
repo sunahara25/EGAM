@@ -1,4 +1,4 @@
-package EMAG522;
+package EGAM;
 
 public class JudgeJanken{
 
